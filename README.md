@@ -16,4 +16,13 @@ October 2024 - June 2025.
 
 ### PROJECTS
 
-* 
+* Identifying the least efficient operators in a telecommunications company; and Dashboard creation.\
+Languajes : Python, Tableu.\
+Conclusions: Values to identify the least efficient operators:\
+Number of total missed incoming calls is greater than 4.\
+Number of internal missed incoming calls is greater than 1.\
+Number of external missed incoming calls is greater than 4.\
+Waiting time to incoming calls is greater than 44 time units.\
+Number of outgoing calls is less than 101.\
+
+
