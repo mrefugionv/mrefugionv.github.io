@@ -23,6 +23,6 @@ Number of total missed incoming calls is greater than 4.\
 Number of internal missed incoming calls is greater than 1.\
 Number of external missed incoming calls is greater than 4.\
 Waiting time to incoming calls is greater than 44 time units.\
-Number of outgoing calls is less than 101.\
+Number of outgoing calls is less than 101.
 
 
