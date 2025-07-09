@@ -42,8 +42,14 @@ Language: Python - Scipy, Seaborn, Matplotlib, Pandas.
 7. Build and deploy a web application control panel on a cloud service. Car sales advertisement dataset.
 Tools: Render. Python - Streamlit. VS Code. GitHub.
 
-8. 
+8. Impact of weather on passenger preference for a cab travel company.
+Languages: SQL commands.  Python- Requests, BS4 : Extraction of information from HTML web sites.
 
+9.Help optimize marketing spend for Showz, an event ticketing company. Cohort analysis, KPI calculations (business metrics) and heatmap visualization.
+Languages: Python - Pandas, Seaborn, Datetime. 
+ROMI per marketing channel :
+
+10.
 
 
 
