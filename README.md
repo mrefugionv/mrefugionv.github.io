@@ -58,7 +58,7 @@ Framework prioritization of hypotheses, cumulative metrics, percentiles and Mann
 Language: Python - Scipy, Seaborn, Matplotlib, Pandas, Datetime.\
 **Cumulative income per group A/B**:
  <div align="center">
-    <img src="s10.PNG" alt="texto_alternativo" width="200"/>
+    <img src="S10.PNG" alt="texto_alternativo" width="200"/>
   </div>
   
 11. A/A/B test for typography change in a food company application.\
@@ -72,7 +72,7 @@ Language: Python - Scipy, Seaborn, Matplotlib, Pandas, Datetime.\
 Tool: Tableu Public.\
 **Dashboard Preview**
  <div align="center">
-    <img src="s12.PNG" alt="texto_alternativo" width="200"/>
+    <img src="s12.png" alt="texto_alternativo" width="200"/>
   </div>
   
 13. Prediction of the probability of loss (for the next month) for each client of the Model Fitness gym. Machine Learning.\
