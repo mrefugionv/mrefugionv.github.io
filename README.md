@@ -1,6 +1,6 @@
 ## Data Analyst
 
-### PROJECTS
+### Projects
 
 3. [Study of music platform activity by days of the week in two different cities.](https://github.com/mrefugionv/S3----MUSIC-)\
 Language: Python - Pandas.
