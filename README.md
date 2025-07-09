@@ -25,4 +25,25 @@ Number of external missed incoming calls is greater than 4.\
 Waiting time to incoming calls is greater than 44 time units.\
 Number of outgoing calls is less than 101.
 
+3.Study of music platform activity by days of the week in two different cities.
+Language: Python - Pandas.
+
+4. Study of music platform activity by days of the week in two different cities, using graphical visualizations to answer the business questions of a grocery delivery platform.
+Language: Python - Pandas, Matplotlib.
+
+5. Which prepaid tariff generates more revenue for the telecommunications operator?
+Hypothesis test by statistical methods.
+Language: Python - Scipy, Seaborn, Matplotlib, Pandas.
+
+6. Sales forecasting for the online video game store.
+Statistical analysis, visualizations and hypothesis testing.
+Language: Python - Scipy, Seaborn, Matplotlib, Pandas.
+
+7. Build and deploy a web application control panel on a cloud service. Car sales advertisement dataset.
+Tools: Render. Python - Streamlit. VS Code. GitHub.
+
+8. 
+
+
+
 
