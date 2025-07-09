@@ -1,4 +1,4 @@
-# DATA ANALYST
+## Data Analyst
 
 ### PROJECTS
 
