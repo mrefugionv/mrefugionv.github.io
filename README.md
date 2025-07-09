@@ -2,14 +2,14 @@
 
 ### Projects
 
-3. [Study of music platform activity by days of the week in two different cities.](https://github.com/mrefugionv/S3----MUSIC-)\
+* [Study of music platform activity by days of the week in two different cities.](https://github.com/mrefugionv/S3----MUSIC-)\
 Language: Python - Pandas.
 <div align="center"> Proportions of listeners in each city by weekday </div>
   <div align="center">
     <img src="s3.PNG" alt="texto_alternativo" width="400"/>
   </div>
   
-4. [Using visualizations, answer  business questions of a grocery delivery platform.](https://github.com/mrefugionv/S4--INSTACART)\
+* [Using visualizations, answer  business questions of a grocery delivery platform.](https://github.com/mrefugionv/S4--INSTACART)\
 Language: Python - Pandas, Matplotlib.
 <div align="center">Prefered hours to order</div>
  <div align="center">
