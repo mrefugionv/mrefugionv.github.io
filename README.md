@@ -45,11 +45,19 @@ Tools: Render. Python - Streamlit. VS Code. GitHub.
 8. Impact of weather on passenger preference for a cab travel company.
 Languages: SQL commands.  Python- Requests, BS4 : Extraction of information from HTML web sites.
 
-9.Help optimize marketing spend for Showz, an event ticketing company. Cohort analysis, KPI calculations (business metrics) and heatmap visualization.
+9. Help optimize marketing spend for Showz, an event ticketing company. Cohort analysis, KPI calculations (business metrics) and heatmap visualization.
 Languages: Python - Pandas, Seaborn, Datetime. 
-ROMI per marketing channel :
+**ROMI per marketing channel** :
 
-10.
+10. Launch and A/B test analysis for an online store.
+Framework prioritization of hypotheses, cumulative metrics, percentiles and Mann-Whitney statistical method.
+Language: Python - Scipy, Seaborn, Matplotlib, Pandas, Datetime.
+**Cumulative income per group A/B**:
 
+11. A/A/B test for typography change in a food company application.
+Language: Python - Scipy, Seaborn, Matplotlib, Pandas, Datetime.
+**Purchase Funnel**
+
+12. 
 
 
