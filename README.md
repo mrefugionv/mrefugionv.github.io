@@ -26,7 +26,7 @@ Language: Python - Scipy, Seaborn, Matplotlib, Pandas.\
 
 6. [Sales forecasting for the online video game store.](https://github.com/mrefugionv/S6---ICE-VIDEOJUEGOS)\
 Statistical analysis, visualizations and hypothesis testing.\
-Language: Python - Scipy, Seaborn, Matplotlib, Pandas.\
+Language: Python - Scipy, Seaborn, Matplotlib, Pandas.
 <div align="center">Platform popularity over time - Histogram</div>
  <div align="center">
     <img src="s6.PNG" alt="texto_alternativo" width="400"/>
