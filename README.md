@@ -5,7 +5,7 @@
 3. Study of music platform activity by days of the week in two different cities.\
 Language: Python - Pandas.\
   <div align="center">
-    Proportions of listeners in each city by weekday
+    Proportions of listeners in each city by weekday\
     <img src="s3.PNG" alt="texto_alternativo" width="200"/>
   </div>
   
