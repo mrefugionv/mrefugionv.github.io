@@ -68,44 +68,43 @@ Language: Python - Scipy, Seaborn, Matplotlib, Pandas, Datetime.\
     <img src="s11.PNG" alt="texto_alternativo" width="400"/>
   </div>
   
-12. Automation of dashboard to solve frequently asked questions for the advertising team about the most viewed video categories.\
+12. [Automation of dashboard to solve frequently asked questions for the advertising team about the most viewed video categories.](https://github.com/mrefugionv/S12----VIDEOS-PUBLICITARIOS-TABLEU)\
 Tool: Tableu Public.\
 <div align="center">Dashboard Preview</div>
  <div align="center">
     <img src="s12.png" alt="texto_alternativo" width="400"/>
   </div>
   
-13. Prediction of the probability of loss (for the next month) for each client of the Model Fitness gym. Machine Learning.\
+13. [Prediction of the probability of loss for each client of the Model Fitness gym. Machine Learning.](https://github.com/mrefugionv/S13----GIMNASIO_ML)\
 Language: Python - ScikitLearn , Pandas.  \
 <div align="center">Clusters Dendogram</div>
  <div align="center">
     <img src="s13.PNG" alt="texto_alternativo" width="400"/>
   </div>
   
-14. Generate a value proposition for a new product to a book application.\
+14. [Generate a value proposition for a new product to a book application.](https://github.com/mrefugionv/S14---APLICACION-LIBROS-SQL)\
 Language: SQL queries. \
 <div align="center">Table diagram for the dataset</div>
  <div align="center">
     <img src="s14-SQL.PNG" alt="texto_alternativo" width="400"/>
   </div>
   
-14.  A/B testing of changes related to the introduction of an improved recommendation system in an online store.\
+14.  [A/B testing of changes related to the introduction of an improved recommendation system in an online store.](https://github.com/mrefugionv/S14----TIENDA-EN-L-NEA-_PRUEBA-AB-)\
 Language: Python - Scipy, Seaborn, Matplotlib, Pandas, Datetime.\
 <div align="center">Daily and cumulative values for each stage of the purchase funnel - Login as an example</div>
  <div align="center">
     <img src="s14AB.PNG" alt="texto_alternativo" width="400"/>
   </div>
   
-14. Identifying the least efficient operators in a telecommunications company; and Dashboard creation.\
+14. [Identifying the least efficient operators in a telecommunications company; and Dashboard creation.](https://github.com/mrefugionv/S14--TELECOMUNICACIONES)\
 Language: Python - Scipy, Seaborn, Matplotlib, Pandas, Datetime.\
 <div align="center">Outliers Analysis</div>
  <div align="center">
     <img src="s14TELE.PNG" alt="texto_alternativo" width="400"/>
   </div>
   
-Language: Tableu 
+Language: [Tableu](https://public.tableau.com/views/ProyectoTelecomunicaciones_17489125856570/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 <div align="center">Dashboard preview</div>
-https://public.tableau.com/views/ProyectoTelecomunicaciones_17489125856570/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
  <div align="center">
     <img src="S14DASH.png" alt="texto_alternativo" width="400"/>
   </div>
