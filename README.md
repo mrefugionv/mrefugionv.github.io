@@ -107,5 +107,5 @@ Language: Tableu
 <div align="center">Dashboard preview</div>
 https://public.tableau.com/views/ProyectoTelecomunicaciones_17489125856570/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
  <div align="center">
-    <img src="s14DASH.PNG" alt="texto_alternativo" width="400"/>
+    <img src="S14DASH.png" alt="texto_alternativo" width="400"/>
   </div>
