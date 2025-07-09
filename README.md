@@ -2,7 +2,7 @@
 
 ### PROJECTS
 
-3.Study of music platform activity by days of the week in two different cities.\
+3. Study of music platform activity by days of the week in two different cities.\
 Language: Python - Pandas.\
 **Proportions of listeners in each city by weekday**
 
@@ -10,22 +10,23 @@ Language: Python - Pandas.\
 Language: Python - Pandas, Matplotlib.\
 **Prefered hours to order**
 
-6. Which prepaid tariff generates more revenue for the telecommunications operator?\
+5. Which prepaid tariff generates more revenue for the telecommunications operator?\
 Hypothesis test by statistical methods.\
 Language: Python - Scipy, Seaborn, Matplotlib, Pandas.\
 **Payment Mean for Surf and Ultimate Plans - Bar Plot**
 
-7. Sales forecasting for the online video game store.\
+6. Sales forecasting for the online video game store.\
 Statistical analysis, visualizations and hypothesis testing.\
 Language: Python - Scipy, Seaborn, Matplotlib, Pandas.\
 **Platform popularity over time - Histogram**
 
-8. Build and deploy a web application control panel on a cloud service. Car sales advertisement dataset.\
+7. Build and deploy a web application control panel on a cloud service. Car sales advertisement dataset.\
 Tools: Render. Python - Streamlit. VS Code. GitHub.\
 **Web application overview**
 
-9. Impact of weather on passenger preference for a cab travel company.\
-Languages: SQL queries.  Python- Requests, BS4 : Extraction of information from HTML web sites.
+8. Impact of weather on passenger preference for a cab travel company.\
+Languages: SQL queries.  Python- Requests, BS4 : Extraction of information from HTML web sites.\
+**Table diagram for the dataset**
 
 10. Help optimize marketing spend for Showz, an event ticketing company. Cohort analysis, KPI calculations (business metrics) and heatmap visualization.\
 Languages: Python - Pandas, Seaborn, Datetime. \
@@ -48,15 +49,15 @@ Tool: Tableu Public.\
 Language: Python - ScikitLearn , Pandas.  \
 **Clusters Dendogram**
 
-14.a.  Generate a value proposition for a new product to a book application.\
+15. Generate a value proposition for a new product to a book application.\
 Language: SQL queries. \
 **Table diagram for the dataset**
 
-14.b.  A/B testing of changes related to the introduction of an improved recommendation system in an online store.\
+14.  A/B testing of changes related to the introduction of an improved recommendation system in an online store.\
 Language: Python - Scipy, Seaborn, Matplotlib, Pandas, Datetime.\
 **Daily and cumulative values for each stage of the purchase funnel - Login as an example**
 
-14.c.  Identifying the least efficient operators in a telecommunications company; and Dashboard creation.\
+14. Identifying the least efficient operators in a telecommunications company; and Dashboard creation.\
 Language: Python - Scipy, Seaborn, Matplotlib, Pandas, Datetime.\
 **Outliers Analysis**
 Language: Tableu 
