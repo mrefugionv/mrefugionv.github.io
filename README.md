@@ -3,60 +3,6 @@
 ### Projects
 ____________________________________________________________________
 
-[Study of music platform activity by days of the week in two different cities.](https://github.com/mrefugionv/S3----MUSIC-)\
-Study of music platform activity by days of the week in two different cities.\
-Data wrangling: Data exploration, data preprocessing and hypothesis testing through data grouping and filtering of dataframes.\
-Language: Python - Pandas.
-
-<div align="center"> Proportions of listeners in each city by weekday </div>
-  <div align="center">
-    <img src="s3.PNG" alt="texto_alternativo" width="400"/>
-  </div>
-
-____________________________________________________________________
-
-[Using visualizations, answer  business questions of a grocery delivery platform.](https://github.com/mrefugionv/S4--INSTACART)\
-Answer the business questions of a grocery delivery platform with graphical visualizations.\
-Language: Python - Pandas, Matplotlib.
-<div align="center">Prefered hours to order</div>
- <div align="center">
-    <img src="s4.PNG" alt="texto_alternativo" width="400"/>
-  </div>
-  
-____________________________________________________________________
-
-[Which prepaid tariff generates more revenue for the telecommunications operator?](https://github.com/mrefugionv/S5----MEGALINE)\
-It is determined which prepaid tariff (Surf or Ultimate) generates more revenue for the telecom operator Megaline, so that the commercial department can adjust the advertising budget.\
-Hypothesis test by statistical methods.\
-Language: Python - Scipy, Seaborn, Matplotlib, Pandas.
-<div align="center">Payment Mean for Surf and Ultimate Plans - Bar Plot</div>
- <div align="center">
-    <img src="s5.PNG" alt="texto_alternativo" width="400"/>
-  </div>
-
-____________________________________________________________________
-
-[Sales forecasting for the online video game store.](https://github.com/mrefugionv/S6---ICE-VIDEOJUEGOS)\
-The online store Ice, which sells video games all over the world, needs to identify patterns that determine whether a game is successful or not. This will allow it to detect promising projects and plan advertising campaigns.\
-Statistical analysis, visualizations and hypothesis testing.\
-Language: Python - Scipy, Seaborn, Matplotlib, Pandas.
-<div align="center">Platform popularity over time - Histogram</div>
- <div align="center">
-    <img src="s6.PNG" alt="texto_alternativo" width="400"/>
-  </div>
-
-____________________________________________________________________
-
-[Build and deploy a web application control panel on a cloud service. Car sales advertisement dataset.](https://github.com/mrefugionv/SPRINT-7---PROYECTO)\
-The application contains: A button that, when pressed, builds a histogram according to the number of cars that have traveled a certain number of kilometers marked on the odometer. A box that, when checked, builds a scatter plot with the relationship between the price of the cars and the kilometers traveled (odometer).\
-Tools: Render. Python - Streamlit. VS Code. GitHub.
-<div align="center">Web application overview</div>
- <div align="center">
-    <img src="s7.PNG" alt="texto_alternativo" width="400"/>
-  </div>
-
-____________________________________________________________________
-
 [Impact of weather on passenger preference for a cab travel company.](https://github.com/mrefugionv/S8---ZUBER)\
 Zuber, a new ridesharing company launching in Chicago, is interested in understanding passenger preferences and the impact of external factors on travel, such as weather and competitors.\
 Hypothesis to be tested : “The average trip length from the Loop to O'Hare International Airport changes on rainy Saturdays.”\
@@ -156,5 +102,60 @@ Language: [Tableu](https://public.tableau.com/views/ProyectoTelecomunicaciones_1
  <div align="center">
     <img src="S14DASH.png" alt="texto_alternativo" width="400"/>
   </div>
+
+  _________________________________________________________________________________________
+  
+[Study of music platform activity by days of the week in two different cities.](https://github.com/mrefugionv/S3----MUSIC-)\
+Study of music platform activity by days of the week in two different cities.\
+Data wrangling: Data exploration, data preprocessing and hypothesis testing through data grouping and filtering of dataframes.\
+Language: Python - Pandas.
+
+<div align="center"> Proportions of listeners in each city by weekday </div>
+  <div align="center">
+    <img src="s3.PNG" alt="texto_alternativo" width="400"/>
+  </div>
+
+____________________________________________________________________
+
+[Using visualizations, answer  business questions of a grocery delivery platform.](https://github.com/mrefugionv/S4--INSTACART)\
+Answer the business questions of a grocery delivery platform with graphical visualizations.\
+Language: Python - Pandas, Matplotlib.
+<div align="center">Prefered hours to order</div>
+ <div align="center">
+    <img src="s4.PNG" alt="texto_alternativo" width="400"/>
+  </div>
+  
+____________________________________________________________________
+
+[Which prepaid tariff generates more revenue for the telecommunications operator?](https://github.com/mrefugionv/S5----MEGALINE)\
+It is determined which prepaid tariff (Surf or Ultimate) generates more revenue for the telecom operator Megaline, so that the commercial department can adjust the advertising budget.\
+Hypothesis test by statistical methods.\
+Language: Python - Scipy, Seaborn, Matplotlib, Pandas.
+<div align="center">Payment Mean for Surf and Ultimate Plans - Bar Plot</div>
+ <div align="center">
+    <img src="s5.PNG" alt="texto_alternativo" width="400"/>
+  </div>
+
+____________________________________________________________________
+
+[Sales forecasting for the online video game store.](https://github.com/mrefugionv/S6---ICE-VIDEOJUEGOS)\
+The online store Ice, which sells video games all over the world, needs to identify patterns that determine whether a game is successful or not. This will allow it to detect promising projects and plan advertising campaigns.\
+Statistical analysis, visualizations and hypothesis testing.\
+Language: Python - Scipy, Seaborn, Matplotlib, Pandas.
+<div align="center">Platform popularity over time - Histogram</div>
+ <div align="center">
+    <img src="s6.PNG" alt="texto_alternativo" width="400"/>
+  </div>
+
+____________________________________________________________________
+
+[Build and deploy a web application control panel on a cloud service. Car sales advertisement dataset.](https://github.com/mrefugionv/SPRINT-7---PROYECTO)\
+The application contains: A button that, when pressed, builds a histogram according to the number of cars that have traveled a certain number of kilometers marked on the odometer. A box that, when checked, builds a scatter plot with the relationship between the price of the cars and the kilometers traveled (odometer).\
+Tools: Render. Python - Streamlit. VS Code. GitHub.
+<div align="center">Web application overview</div>
+ <div align="center">
+    <img src="s7.PNG" alt="texto_alternativo" width="400"/>
+  </div>
+
 
 ____________________________________________________________________
